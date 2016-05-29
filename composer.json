@@ -1,0 +1,16 @@
+{
+    "name": "DIESEL/electronic-library",
+    "description": "Files to work electronic library",
+    "authors": [
+        {
+            "name": "Vitaliy Gruschinsky",
+            "email": "grushinsky.vitaliy@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+      "psr-4": {
+        "Binary_studio\\": "src/"
+      }
+    }
+}
